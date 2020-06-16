@@ -18,7 +18,6 @@ public class Inmate implements Comparable<Inmate> {
         this.wardNo = wardNo;
         this.healthStatus = healthStatus;
         this.id = id;
-
     }
     //this constructor is used to search an Inmate.
     public Inmate(String id){
